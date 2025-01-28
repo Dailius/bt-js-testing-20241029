@@ -54,3 +54,9 @@ V. Version Control Systems
         git remote add origin https://github.com/Dailius/demo-test.git
         git push --set-upstream origin master
 
+    Clone project:
+        Open terminal: cd <your directory>
+        C:\Users\clacc>cd C:\00_bt\demo
+
+        git clone https://github.com/Dailius/bt-js-testing-20241029.git
+
