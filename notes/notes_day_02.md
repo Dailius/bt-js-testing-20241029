@@ -1,4 +1,4 @@
-## IV SD methodologies: Waterfall, Agile
+## IV. SD methodologies: Waterfall, Agile
     SDLT - Software Testing Life Cycle
     SDLC - Software Development Life Cycle
 
@@ -11,7 +11,7 @@
         2. System req.
         3. Software specification req.
 
-1. Test Cases (TC)
+## V. Test Cases (TC)
     Test Scenarios (TS)
         Registration for person
         Registration for company
@@ -52,6 +52,3 @@
         expected results,
         pass/fail criteria, and
         status of the test case.
-
-2. Git for team:
-    branching, merge, pull requests.

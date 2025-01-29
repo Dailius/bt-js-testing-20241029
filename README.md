@@ -8,12 +8,14 @@
 5. Version Control Systems
 
 
-## Day 02
+## [Day 02](/notes/notes_day_02.md)
 
 1. Repeat (leacture 01)
 2. Check homework
 3. ISQTB
 4. SD methodologies: Waterfall, Agile
 5. Test Cases (TC)
+
+## [Day 03]()
 6. Git for team:
     branching, merge, pull requests.
