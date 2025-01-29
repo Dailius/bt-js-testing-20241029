@@ -59,3 +59,9 @@ Create Remote repo and push:
     git remote add origin https://github.com/Dailius/demo-test.git
     git push --set-upstream origin master
 ```
+
+```git
+    git clone https://github.com/Dailius/bt-js-testing-20241029.git
+```
+
+
