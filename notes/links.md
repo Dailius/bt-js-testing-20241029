@@ -1,6 +1,7 @@
 ## Usefull links:
 [QA road map](https://roadmap.sh/qa)  
-[The Best Testing And QA Methodologies](https://jelvix.com/blog/qa-testing-methodologies) 
+[The Best Testing And QA Methodologies](https://jelvix.com/blog/qa-testing-methodologies)  
+[ISQTB exsams link](https://atsqa.org/educational-resources)   
 
 ## Git usefull links:
 [Git official site](https://git-scm.com/)  
@@ -11,5 +12,13 @@
 [ToDo web app](https://todolist.james.am/#/)  
 [Fake e-shope sucedemo](https://www.saucedemo.com/)  
 [Find bugs 'fake e-shope'](https://academybugs.com/find-bugs/)  
+
+## TC:
+[TC testsigma requirements](https://testsigma.com/guides/test-cases-for-manual-testing/)  
+[TC cursera  requirements](https://www.coursera.org/articles/how-to-write-test-cases)  
+
+[TC guru99 template](https://www.guru99.com/download-sample-test-case-template-with-explanation-of-important-fields.html)  
+[TC smartsheet template](https://www.smartsheet.com/test-case-templates-examples)  
+[TC templatelab template](https://templatelab.com/test-case/#google_vignette)  
 
 ## API links:
