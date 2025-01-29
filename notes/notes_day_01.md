@@ -1,5 +1,5 @@
 
-II. QA Specialist requirements:
+## II. QA Specialist requirements:
     1. Soft skills:
         1.1.Being proactive in gathering non-functional
         1.2.Positive thinking, quality orientation, reliability, ability to organize, exceptional attention to details.
@@ -26,37 +26,36 @@ II. QA Specialist requirements:
 
 
 
-IV. Testing types
+## IV. Testing types
     Functional testing
         Regresion testing
 
     Non-Functional testing
         UI/UX
 
-V. Version Control Systems
+## V. Version Control Systems
    GIT, GitHub
 
-   GIT:
-        git commit
-        git push
-        git pull
+GIT commands:
+```git
+    git commit
+    git push
+    git pull
+```
+> CLI - commad line interface
 
-    CLI - commad line interface
+Create git repo localy:
 
-    Create git repo localy:
-        git init
-        git status
-        git add .
-            (git add --all)
-        git commit -m "Commit message here"
+```git
+    git init
+    git status
+    git add .
+    git commit -m "Commit message here"
+```
+`git add --all` is alternative for `git add .`
 
-    Create Remote repo and push:
-        git remote add origin https://github.com/Dailius/demo-test.git
-        git push --set-upstream origin master
-
-    Clone project:
-        Open terminal: cd <your directory>
-        C:\Users\clacc>cd C:\00_bt\demo
-
-        git clone https://github.com/Dailius/bt-js-testing-20241029.git
-
+Create Remote repo and push:
+```git
+    git remote add origin https://github.com/Dailius/demo-test.git
+    git push --set-upstream origin master
+```
