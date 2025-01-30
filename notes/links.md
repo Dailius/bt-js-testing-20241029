@@ -25,4 +25,12 @@
 [Open office](https://www.openoffice.org/)  
 [libre office](https://www.libreoffice.org/)  
 
+## HTTP etc:
+[HTTP status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)  
+[HTTP methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)  
+
 ## API links:
+[Railsr API documentation](https://docs.railsr.com/docs/api)  
+[Payser API documentation](https://developers.paysera.com/en/wallet/basics)  
+[New API documentation](https://newsapi.org/docs)  
+[jsonplaceholder](https://jsonplaceholder.typicode.com/)  
