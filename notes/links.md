@@ -32,5 +32,7 @@
 ## API links:
 [Railsr API documentation](https://docs.railsr.com/docs/api)  
 [Payser API documentation](https://developers.paysera.com/en/wallet/basics)  
+[LietuvosPastas API](https://www.post.lt/api-verslui)  
 [New API documentation](https://newsapi.org/docs)  
 [jsonplaceholder](https://jsonplaceholder.typicode.com/)  
+[Petstore API](https://petstore.swagger.io/)  

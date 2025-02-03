@@ -24,6 +24,12 @@
 5. REST API
 6. Postman
 
+## [Day 04](/notes/notes_day_04.md)
+1. Repeat (leacture 01)
+2. Check homework
+3. API Documentation (Swager)
+4. REST request/response: headers, bodies, queries
+
 ***
 ??? Git for team: branching, merge, pull requests.
 ***
