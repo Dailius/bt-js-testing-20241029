@@ -1,3 +1,5 @@
+## [Useful links](/notes/links.md)
+
 # Week 01
 ## [Day 01](/notes/notes_day_01.md)
 
@@ -29,6 +31,15 @@
 2. Check homework
 3. API Documentation (Swager)
 4. REST request/response: headers, bodies, queries
+
+## [Day 05](/notes/notes_day_05.md)
+1. Repeat (leacture 01)
+2. Check homework
+3. Git for team: branching, merge, pull requests
+4. Smoke test
+5. Exploratory testing
+6. Test plan
+7. TC management systems (Testomat)
 
 ***
 ??? Git for team: branching, merge, pull requests.

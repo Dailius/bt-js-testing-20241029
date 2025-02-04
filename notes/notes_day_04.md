@@ -26,12 +26,12 @@ https://petstore.swagger.io/#/pet/findPetsByStatus
 
 
 ```json
-    
     {
         "id": 9223372016900016781,
         "category": {
             "id": -4630181,
             "name": "nulla quis pariatur"
+        }
     }
 ```
 
