@@ -41,7 +41,17 @@
 6. Test plan
 7. TC management systems (Testomat)
 
-***
-??? Git for team: branching, merge, pull requests.
-***
+## [Day 06](/notes/notes_day_06.md)
+1. Repeat (leacture 01)
+2. Check homework
+3. TS/TC create and register into testomat.io
+
+
+<!-- ## [Day 07](/notes/notes_day_06.md)
+1.. Check homework
+3. QA/DEV/produciton enviroments
+4. Generate code with ChatGPT
+5. Black box and Grey box testing for API -->
+   
+
 
