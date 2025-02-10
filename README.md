@@ -47,11 +47,16 @@
 3. TS/TC create and register into testomat.io
 
 
-## [Day 07](/notes/notes_day_06.md)
+## [Day 07](/notes/notes_day_07.md)
 1. Check homework
 3. QA/DEV/produciton enviroments
 4. Generate code with ChatGPT
 5. Black box and Grey box testing for API
-   
+
+## [Day 08](/notes/notes_day_08.md)
+1. Repeat (leacture 01)
+2. Check homework
+3. Postman and Express.js practice
+4. Postman Scripts
 
 
