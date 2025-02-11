@@ -59,4 +59,7 @@
 3. Postman and Express.js practice
 4. Postman Scripts
 
-
+## [Day 09](/notes/notes_day_09.md)
+1. Repeat (leacture 01)
+2. Check homework
+3. Javascript and Postman script

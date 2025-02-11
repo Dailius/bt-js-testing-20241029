@@ -1,0 +1,10 @@
+
+Complete postman request and tests for user manamgent app:
+
+1. Create folders for split the requests into functionalities.
+    Register new user and login
+    Rgeister new user and get user details
+    ....
+
+    
+2. Try and play with PostBot to automatically generate tests.
