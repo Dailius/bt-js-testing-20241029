@@ -70,3 +70,7 @@
 3. Postman Pre-scripts
 4. Variables in Postman
 5. Rerunnable tests in Postman
+
+## [Day 11](/notes/notes_day_11.md)
+1. Repeat and check homework
+2. Test isolation and test scenarios
