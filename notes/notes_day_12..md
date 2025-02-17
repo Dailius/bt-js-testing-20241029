@@ -67,13 +67,16 @@ Run tests with newman and generate reports
    newman run UsserManagement.postman_collection.json -r cli,json
 ```
 
-Install htmlextra:  
+Install htmlextra: 
 
+   Globaly:   
 ```cmd
-// globaly:  
+ 
    npm install -g newman-reporter-htmlextra
+```
+   Localy:  
+```cmd
 
-// localy:  
    npm install newman-reporter-htmlextra
 ```
 
@@ -81,11 +84,25 @@ Run tests with newman and generate html repor:
 
 ```cmd
    newman run UsserManagement.postman_collection.json -r htmlextra
-
-//   or 
+```
+or  
+```cmd
    newman run UsserManagement.postman_collection.json -r htmlextra --reporter-htmlextra-export report.html
 ```
 
+Remove and Reinstall Everything:  
+```cmd
+   npm uninstall -g newman newman-reporter-htmlextra
+   npm uninstall newman newman-reporter-htmlextra
+   npm cache clean --force
+   npm install -g newman newman-reporter-htmlextra
+   npm install newman-reporter-htmlextra
+```
+
+Then, retry:
+```cmd
+   npx newman run UsserManagement.postman_collection.json -r htmlextra
+```
 
 <br>
 
