@@ -1,0 +1,6 @@
+
+Complete TS and TC as we wrote list.
+Add new postman.json file (export)
+Implement newman toll for previous project
+Add newman json and html report
+

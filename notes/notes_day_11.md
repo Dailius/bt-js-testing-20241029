@@ -23,22 +23,24 @@ add dev into package.json file of scripts object as follows:
 
 In CMD terminal run command: nmp run dev
 
-1. Register new user (Reigister)
-2. Register and login (login)
-3. Reigster and Get (get user details)
-4. Get all users
-   1. Positive 
-5. Register, login and logout (logout)
-   1. Positive
-6. Register and delete user (delete)
-   1. Positige with existing username
-      1. Register new user
-      2. Delete new user
-      3. Get user details (expect user do not exits in the system)
-   2. Negatvie with non-existing username
-      1. Delete non-existing user
+TS_01. Register new user (Reigister)
+TS_02. Register and login (login)
+TS_03. Reigster and Get (get user details)
 
+TS_04. Get all users
+   TC_4.1. Positive 
 
+TS_05. Register, login and logout (logout)
+   TC_5.1. Positive
+
+TS_06. Register and delete user (delete)
+   TC_6.1. Positige with existing username
+      TC_6.1.1. Register new user
+      TC_6.1.2. Delete new user
+      TC_6.1.3. Get user details (expect user do not exits in the system)
+
+   TC_6.2. Negatvie with non-existing username
+      TC6.2.1. Delete non-existing user
 
 
 <br>

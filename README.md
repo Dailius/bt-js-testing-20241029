@@ -74,3 +74,9 @@
 ## [Day 11](/notes/notes_day_11.md)
 1. Repeat and check homework
 2. Test isolation and test scenarios
+
+## [Day 12](/notes/notes_day_12.md)
+1. Repeat and check homework
+2. Run scenarios (Collections)
+3. Newman tool
+4. Install PostgreSQL
