@@ -80,3 +80,9 @@
 2. Run scenarios (Collections)
 3. Newman tool
 4. Install PostgreSQL
+
+## [Day 13](/notes/notes_day_13.md)
+1. Repeat and check homework
+2. SCRUM
+3. Intro to SQL
+
