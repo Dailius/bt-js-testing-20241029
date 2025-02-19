@@ -86,3 +86,8 @@
 2. SCRUM
 3. Intro to SQL
 
+## [Day 14](/notes/notes_day_14.md)
+1. Repeat and check homework
+2. Databases
+3. SQL joins
+
