@@ -91,3 +91,8 @@
 2. Databases
 3. SQL joins
 
+## [Day 15](/notes/notes_day_15.md)
+1. Repeat and check homework
+2. SQL in Javascript
+3. Intro to security
+

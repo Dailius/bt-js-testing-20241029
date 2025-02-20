@@ -1,0 +1,21 @@
+You have an autogenerate application by AI that needs to be tested.
+
+Manual testing
+
+0. You are able to successfully run and call /register endpoint with Postman.
+
+{
+    "username":"root",
+    "email":"demo@demo.com",
+    "title":"Mr.",
+    "password":"your secred password"
+}
+
+1. After registering user i want to check that data persists in the database.
+    (check within pgAdmin by SQL code)
+2. Go to the database and check that created_at is correct.
+3. Test The '/login' endpoint works with new account.
+4. Test '/user/:id' functionality (Update user email and title)
+5. Go to database and ensure updated_at has been modified.
+6. Test that after restarting application, the data is not lost.
+
