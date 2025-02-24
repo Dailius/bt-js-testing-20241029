@@ -96,3 +96,9 @@
 2. SQL in Javascript
 3. Intro to security
 
+## [Day 16](/notes/notes_day_16.md)
+1. Repeat and check homework
+2. Attacks
+3. Hash functions
+4. Api-key vs. JWT
+
