@@ -102,3 +102,8 @@
 3. Hash functions
 4. Api-key vs. JWT
 
+## [Day 17](/notes/notes_day_17.md)
+1. Repeat and check homework
+
+
+

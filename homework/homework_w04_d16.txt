@@ -1,6 +1,6 @@
 You have an application which allows you to register, login, and update user information:
 
-1. Please covert all functionality with Postman requests and tests.
+1. Please cover all functionality with Postman requests and tests.
 2. The tests should be runnable as a collection and they should be rerunnable.
 3. The quality of tests matter:
 You should be able to check if you can register account with specified email and passwords, 
