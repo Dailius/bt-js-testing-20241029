@@ -105,5 +105,9 @@
 ## [Day 17](/notes/notes_day_17.md)
 1. Repeat and check homework
 
+## [Day 17](/notes/notes_day_17.md)
+1. Repeat and check homework
+2. Cypress install
+3. First test with cypress.
 
 
