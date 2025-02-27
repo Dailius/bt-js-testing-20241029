@@ -105,9 +105,15 @@
 ## [Day 17](/notes/notes_day_17.md)
 1. Repeat and check homework
 
-## [Day 17](/notes/notes_day_17.md)
+## [Day 18](/notes/notes_day_18.md)
 1. Repeat and check homework
 2. Cypress install
 3. First test with cypress.
+
+## [Day 19](/notes/notes_day_18.md)
+1. Repeat and check homework
+2. E2E tests vs integration tests
+3. Get vs contains in cypress
+4. Actions in cypress: type and click.
 
 
