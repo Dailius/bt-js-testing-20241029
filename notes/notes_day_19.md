@@ -27,23 +27,24 @@ https://docs.cypress.io/app/core-concepts/test-isolation
 
 https://docs.cypress.io/app/core-concepts/best-practices  
 
-Get function:  
+**Get function:**  
 https://docs.cypress.io/api/commands/get 
+
+**Contains function:**  
+https://docs.cypress.io/api/commands/contains
 
 <br>
 
 ## IV. Actions in cypress: type and click.
 
-Type function:  
+**Type function:**   
 https://docs.cypress.io/api/commands/type  
 
 
-Click function:
+**Click function:**  
 https://docs.cypress.io/api/commands/click
 
 <br>
-
-
 
 ## Run demo.html with node.js http server.  
 Navigate where file is located and run this command:

@@ -110,10 +110,22 @@
 2. Cypress install
 3. First test with cypress.
 
-## [Day 19](/notes/notes_day_18.md)
+## [Day 19](/notes/notes_day_19.md)
 1. Repeat and check homework
 2. E2E tests vs integration tests
 3. Get vs contains in cypress
 4. Actions in cypress: type and click.
+
+## [Day 20](/notes/notes_day_20.md)
+1. Repeat and check homework
+2. Hooks
+3. Combinator selectors
+4. Readme
+
+<!-- ## [Day 21](/notes/notes_day_21.md)
+1. Repeat and check homework
+2. Intro to CI/CD
+3. Virtual machines -->
+
 
 
