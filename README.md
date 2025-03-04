@@ -122,10 +122,14 @@
 3. Combinator selectors
 4. Readme
 
-<!-- ## [Day 21](/notes/notes_day_21.md)
+## [Day 21](/notes/notes_day_21.md)
 1. Repeat and check homework
 2. Intro to CI/CD
-3. Virtual machines -->
+3. Virtual machines
+4. Cypress run
+
+
+<!-- 5. Cypress configuration -->
 
 
 

@@ -49,6 +49,4 @@ describe('Demo template spec', () => {
         cy.get('div[class="app_logo"]').should('contain.text', 'Swag Labs');
     })
 
-
-
   })

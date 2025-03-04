@@ -1,3 +1,6 @@
+#Cypress
+code_examples/cyperss-demo/cypress/screenshots/
+
 # Logs
 logs
 *.log

@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress open"
+    "cy:ui": "cypress open",
+    "cy:cli": "cypress run --browser chrome"
   },
   "keywords": [],
   "author": "",
