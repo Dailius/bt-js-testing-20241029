@@ -34,7 +34,7 @@ describe('Demo template spec', () => {
         cy.url().should('eq', 'https://www.saucedemo.com/');
 
         // type username
-        cy.get('input[data-test="username"]').type('performance_glitch_user');
+        cy.get('input[data-test="username"]').type('standard_user');
 
         // type password
         cy.get('input[data-test="password"]').type('secret_sauce');
