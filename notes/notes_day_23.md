@@ -72,10 +72,19 @@ Install concurrently lib
 }
 ```
 
-
 <br>
 
+### ***powershell set up***
 
+If you want a permanent solution, run PowerShell as an Administrator and execute:  
+```powershell
+    Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```  
+
+This will allow scripts to run only for the current session:
+    
+```powershell
+    Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 
 
