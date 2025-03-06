@@ -128,13 +128,20 @@
 3. Virtual machines
 4. Cypress run
 
-## [Day 21](/notes/notes_day_22.md)
+## [Day 22](/notes/notes_day_22.md)
 1. Repeat and check homework
 2. Cypress configuration
 
+## [Day 23](/notes/notes_day_23.md)
+1. Repeat and check homework
+2. Single page (web and app)
+3. React (Vite)
+4. Scripts
 
-<!-- 3. Single page (web and app)
-4. React -->
+<!-- 5. Cypress commands
+6. Github actions pipelines -->
+
+
 
 
 

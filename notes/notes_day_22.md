@@ -13,15 +13,6 @@ https://docs.cypress.io/app/references/configuration#Test-Configuration
 https://peter.sh/experiments/chromium-command-line-switches/  
 
 
-<br>
-
-## III. Single page (web and app)
-
-
-<br>
-
-## IV. React
-
 
 
 

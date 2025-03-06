@@ -1,0 +1,8 @@
+Continue with Tic-Tac-Toe project:
+1. Cover all the functionality in Tic-Tac-Toe with automated cypress tests.
+2. Push everything to the repo and write the readme.md for this.
+This will be your portfolio project.
+
+Advanced, optional.
+Ask ChatGPT to allow playing both 2player or (vs AI) mode
+Cover all new functionality with cypress tests.
