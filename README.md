@@ -143,7 +143,14 @@
 2. Cypress commands
 3. Github actions pipelines
 
+## [Day 25](/notes/notes_day_25.md)
+1. Repeat and check homework
+2. Performance testing
 
+
+<!-- 3. Testing levels
+4. Integration vs system testing
+5. Unit testing and Mocking -->
 
 
 
