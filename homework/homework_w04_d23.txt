@@ -6,3 +6,5 @@ This will be your portfolio project.
 Advanced, optional.
 Ask ChatGPT to allow playing both 2player or (vs AI) mode
 Cover all new functionality with cypress tests.
+
+Add GitHub actions.

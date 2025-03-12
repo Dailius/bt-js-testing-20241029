@@ -11,7 +11,6 @@ Yahoo website in 90s and later:
 https://www.webdesignmuseum.org/gallery/yahoo-1994
 
 
-
 <br>
 
 ## III. React
@@ -54,7 +53,7 @@ Press 'q' key in order to exit from log list.
 
 <br>
 
-## III. React
+## III. Package.json scripts
 
 Install concurrently lib
 ```cmd
@@ -85,6 +84,6 @@ This will allow scripts to run only for the current session:
     
 ```powershell
     Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-
+```
 
 

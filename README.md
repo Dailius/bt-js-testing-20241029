@@ -138,8 +138,10 @@
 3. React (Vite)
 4. Scripts
 
-<!-- 5. Cypress commands
-6. Github actions pipelines -->
+## [Day 24](/notes/notes_day_24.md)
+1. Repeat and check homework
+2. Cypress commands
+3. Github actions pipelines
 
 
 
