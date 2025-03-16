@@ -147,10 +147,17 @@
 1. Repeat and check homework
 2. Performance testing
 
+## [Day 26](/notes/notes_day_26.md)
+1. Repeat and check homework
+2. Testing levels
+3. Integration vs system testing
+4. Unit testing and Mocking
 
-<!-- 3. Testing levels
-4. Integration vs system testing
-5. Unit testing and Mocking -->
+
+<!-- 5. Mobile testing
+6. Task for the week -->
+
+
 
 
 
