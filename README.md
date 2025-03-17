@@ -153,9 +153,16 @@
 3. Integration vs system testing
 4. Unit testing and Mocking
 
+## [Day 27](/notes/notes_day_27.md)
+1. Repeat and check homework
+2. Vibe coding
+3. AAA testing framework
+4. Unit and integration testing
+
+
 
 <!-- 5. Mobile testing
-6. Task for the week -->
+1. Task for the week -->
 
 
 
