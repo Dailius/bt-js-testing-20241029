@@ -41,7 +41,7 @@ senior:
 
 <br>
 
-## III. Pesticide Paradox
+## III. Pesticide paradox
 
 The Pesticide Paradox in software testing is a principle stating that if the same set of test cases is executed repeatedly, they will eventually fail to detect new defects.  
 
