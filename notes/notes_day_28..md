@@ -11,6 +11,13 @@ Boundary-value analysis is a software testing technique in which tests are desig
 
 https://www.alphabin.co/blog/boundary-value-analysis-in-software-testing  
 
+Exercises with boundary values: 
+* Live period  
+* Thermostat  
+* Deposit interest  
+https://www.testdome.com/library?page=1&skillArea=78&type=skills-chooser  
+
+
 Age = 20
 validation:
 [up to 13] - forbidden
