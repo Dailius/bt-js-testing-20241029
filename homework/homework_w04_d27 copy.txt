@@ -1,0 +1,1 @@
+Create integration tests for previous project of 'user-management'. 

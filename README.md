@@ -159,8 +159,10 @@
 3. AAA testing framework
 4. Unit and integration testing
 
-
-
+## [Day 28](/notes/notes_day_28.md)
+1. Repeat and check homework
+2. Boundary values
+3. 
 <!-- 5. Mobile testing
 1. Task for the week -->
 
