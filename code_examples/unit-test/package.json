@@ -8,9 +8,10 @@
   },
   "scripts": {
     "start": "node src/server.js",
+    "stop": "taskkill /IM node.exe /F || exit 0",
     "dev": "nodemon src/server.js",
     "test": "jest",
-    "tst:cli": "concurrently \"npm run start\" \"npm run test\"",
+    "tst:cli": "concurrently \"npm run start\" \"npm run test && npm run stop\"",
     "tst:adv": "concurrently --kill-others --names \"SERVER,TEST\" --prefix-colors \"bgBlue.bold,bgGreen.bold\" \"npm run start\" \"npm run test\""
   },
   "keywords": [],

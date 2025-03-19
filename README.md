@@ -164,6 +164,12 @@
 2. Boundary values
 3. Pesticide Paradox
 
+## [Day 29](/notes/notes_day_28.md)
+1. Repeat and check homework
+2. Close APP after tests completion
+3. Defects and severities
+4. Bug lifecycle
+5. Jira
 
 <!-- 5. Mobile testing
 1. Task for the week -->
