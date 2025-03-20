@@ -78,7 +78,7 @@ Low:
         
         "Internal Server error with 200 upon sending GET '/users'"
 
-2. Steps to reproduce.
+2. Steps to reproduce (Description):
    
     E2E pvz.:
         Pre-requisites:
@@ -93,15 +93,29 @@ Low:
 
     API pvz.:
         Pre-requisites:
+        * existing few users
 
         Steps to reproduce:
+        * Send GET request to /users
+        * Observe response body
 
-        Expected:
-        Actual:
+        Expected: list of users
+        Actual: response body message "Internal Server error" with code 200 
 
-3. Environment
+3. Environment:
+   Chrome version, QA environment, Postman, OS version ...
+   Chrome Version 133.0.6943.142 (Official Build) (64-bit)
+
 4. Build version
+    Product version where was identified bug.
+
 5. Severity
+    E2E: low
+
+One problem = one registered defect.
+Cosmetic defects may register as one.
+
+![](/pic/bug_lifecycle.png)
 
 
 <br>

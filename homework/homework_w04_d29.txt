@@ -1,0 +1,23 @@
+Register Bug issue in Jira:
+
+API pvz.:
+GET /users
+resp code 200
+in the body error "Internal Server error"
+
+"Internal Server error with 200 upon sending GET '/users'"
+
+Pre-requisites:
+* existing few users
+
+Steps to reproduce:
+* Send GET request to /users
+* Observe response body
+
+Expected: list of users
+Actual: response body message "Internal Server error" with code 200 
+
+Environment:
+   QA environment, Postman
+
+Severity
