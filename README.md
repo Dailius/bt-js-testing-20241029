@@ -174,6 +174,16 @@
 2. Bug lifecycle
 3. Jira
 
+## [Day 31](/notes/notes_day_31.md)
+1. Repeat and check homework
+2. Register defects
+
+
+
+<!-- ## [Day 32](/notes/notes_day_31.md)
+1. Repeat and check homework
+3. Sweetshop project -->
+
 <!-- 5. Mobile testing
 1. Task for the week -->
 
