@@ -178,11 +178,9 @@
 1. Repeat and check homework
 2. Register defects
 
-
-
-<!-- ## [Day 32](/notes/notes_day_31.md)
+## [Day 32](/notes/notes_day_32.md)
 1. Repeat and check homework
-3. Sweetshop project -->
+2. Sweetshop project
 
 <!-- 5. Mobile testing
 1. Task for the week -->
