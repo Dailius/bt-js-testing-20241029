@@ -23,8 +23,8 @@ This project is to identify all functional tests cases and write cypress tests t
         2.1.1. Check 'Login' title, description
         2.1.2. Check the page has 'username' and 'password' textboxes.
     2.2. Login functionality:
-        2.2.1 Successful scenario
-        2.2.2 Unsuccessful scenario
+        2.2.1 Successful test case
+        2.2.2 Unsuccessful test cases
 
 3. We should get ready for writing cypress tests.
 3.1 Create an account in https://www.atlassian.com/software/jira (it is free and does not require a credit card).
