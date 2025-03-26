@@ -182,6 +182,10 @@
 1. Repeat and check homework
 2. Sweetshop project
 
+## [Day 33](/notes/notes_day_33.md)
+1. Repeat and check homework
+2. Sweetshop project continuation (TestCases.md)
+
 <!-- 5. Mobile testing
 1. Task for the week -->
 
