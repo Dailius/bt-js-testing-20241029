@@ -1,0 +1,4 @@
+gitignore
+Initiate Cypress project
+Readme file
+Pipeline with GitHub actions

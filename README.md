@@ -182,9 +182,13 @@
 1. Repeat and check homework
 2. Sweetshop project
 
-## [Day 33](/notes/notes_day_33.md)
+## [Day 33]()
 1. Repeat and check homework
 2. Sweetshop project continuation (TestCases.md)
+
+## [Day 34]()
+1. Repeat and check homework
+2. Sweetshop project continuation Sprint with Jira
 
 <!-- 5. Mobile testing
 1. Task for the week -->

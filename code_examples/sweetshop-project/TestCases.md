@@ -1,9 +1,9 @@
-1. TS_1 About Page
+## 1. TS_1 About Page
     TC_1.1 Verify the page has the title 'Sweet Shop Project'.
     TC_1.2 Verify the page has a description.
     TC_1.3 Verify the page has a banner and it matches the year 2018.
 
-2. TS_2 Header (navigation bar) 
+## 2. TS_2 Header (navigation bar) 
     TC_2.1 Verify that "Sweets" page loads from main page correctly.
     TC_2.2 Verify that "About" page loads from main page correctly.
     TC_2.3 Verify that "Login" page loads from main page correctly.
@@ -25,7 +25,7 @@
     TC_2.19 Verify that "About" page loads from "Basket" page correctly.
     TC_2.20 Verify that "Login" page loads from "Basket" page correctly.
 
-3. TS_3 Login Page
+## 3. TS_3 Login Page
  
     TC_3.1 Verify the page title is 'Login'.
     TC_3.2 Verify the page has a description.
@@ -38,33 +38,21 @@
     TC_3.9 Negative with empty password
     TC_3.10 Negative with empty email and empty password
 
-4. TS_4 Account page
+## 4. TS_4 Account page
     TC_4.1. Positive login.Verify user info is displayed.
 
-5. TS_5 Sweets Page
+## 5. TS_5 Sweets Page
     TC_5.1 Verify the page title is 'Browse sweets'.
     TC_5.2 Verify the list of available products is displayed.
     TC_5.3 Verify each product has a name, price, image and 'Add to Basket' button.
  
- 6. TS_6 Basket Page (Cart)
+## 6. TS_6 Basket Page (Cart)
     TC_6.1 Add products to basket and the basket count is updated.
     TC_6.2 Add products to basket with delivery 'Collect(FREE)' (quantity, names, total).
     TC_6.3 Add products to basket with delivery 'Standard shipping (1.99)' (quantity, names, total).
  
-      TC_4.2.1. Remove item from basket
-      TC_4.2.2. Verify the basket count is updated.
-      TC_4.2.3. Empty basket.
-      TC_4.2.4. Verify the basket is empty.
+    TC_4.2.1. Remove item from basket
+    TC_4.2.2. Verify the basket count is updated.
+    TC_4.2.3. Empty basket.
+    TC_4.2.4. Verify the basket is empty.
  
-6. Checkout Process
-   
-    TS_5.1  Checkout Page Load:
-     
-      TC_5.1.1 Verify the checkout page is accessible.
-      TC_5.1.2 Verify the page displays all basket items.
- 
-    TS_5.2  Completing Checkout:
- 
-      TC_5.2.1 Enter valid payment and shipping details.
-      TC_5.2.2 Add shipping costs.
-      TC_5.2.3 Verify checkout was successful.
