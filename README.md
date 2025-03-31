@@ -190,8 +190,9 @@
 1. Repeat and check homework
 2. Sweetshop project continuation Sprint with Jira
 
-<!-- 5. Mobile testing
-1. Task for the week -->
+## [Day 35](/)
+1. Sweetshop project continuation Sprint with Jira
+2. Mobile testing
 
 
 
