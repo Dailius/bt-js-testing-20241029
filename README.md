@@ -190,10 +190,12 @@
 1. Repeat and check homework
 2. Sweetshop project continuation Sprint with Jira
 
-## [Day 35](/)
+## [Day 35](/notes/notes_day_35.md)
 1. Sweetshop project continuation Sprint with Jira
 2. Mobile testing
 
+## [Day 36]()
+1. Sweetshop project continuation Sprint with Jira
 
 
 

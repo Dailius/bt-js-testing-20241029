@@ -59,3 +59,116 @@ describe('TS03 test scenario / test case', () => {
         })
     })
 })
+
+
+describe('TS02 Header', () => {
+    describe('TS02 Navigation menu from Home page', () => {
+        beforeEach(() => {
+                cy.visit("https://sweetshop.netlify.app/");
+            })
+
+        it('TC_02.01 Test open Sweets page', () => {
+            cy.log("TC_02.01 Test open Sweets page");
+        })
+
+        it('TC_02.02 Test open About page', () => {
+            cy.log("TC_02.02 Test open About page");
+        })
+
+        it('TC_02.03 Test open Login page', () => {
+            cy.log("TC_02.03 Test open Login page");
+        })
+
+        it('TC_02.04 Test open Basket page', () => {
+            cy.log("TC_02.04 Test open Basket page");
+        })  
+    })
+
+    describe('TS02 Navigation menu from Sweets page', () => {
+        beforeEach(() => {
+                cy.visit("https://sweetshop.netlify.app/about");
+            })
+
+        it('TC_02.01 Test open Sweets page', () => {
+            cy.log("TC_02.01 Test open Sweets page");
+        })
+
+        it('TC_02.02 Test open About page', () => {
+            cy.log("TC_02.02 Test open About page");
+        })
+
+        it('TC_02.03 Test open Login page', () => {
+            cy.log("TC_02.03 Test open Login page");
+        })
+
+        it('TC_02.04 Test open Basket page', () => {
+            cy.log("TC_02.04 Test open Basket page");
+        })  
+    })
+
+    describe('TS02 Navigation menu from About page', () => {
+        beforeEach(() => {
+                cy.visit("https://sweetshop.netlify.app/sweets");
+            })
+
+        it('TC_02.01 Test open Sweets page', () => {
+            cy.log("TC_02.01 Test open Sweets page");
+        })
+
+        it('TC_02.02 Test open About page', () => {
+            cy.log("TC_02.02 Test open About page");
+        })
+
+        it('TC_02.03 Test open Login page', () => {
+            cy.log("TC_02.03 Test open Login page");
+        })
+
+        it('TC_02.04 Test open Basket page', () => {
+            cy.log("TC_02.04 Test open Basket page");
+        })  
+    })
+
+    describe('TS02 Navigation menu from Login page', () => {
+        beforeEach(() => {
+                cy.visit("https://sweetshop.netlify.app/sweets");
+            })
+
+        it('TC_02.01 Test open Sweets page', () => {
+            cy.log("TC_02.01 Test open Sweets page");
+        })
+
+        it('TC_02.02 Test open About page', () => {
+            cy.log("TC_02.02 Test open About page");
+        })
+
+        it('TC_02.03 Test open Login page', () => {
+            cy.log("TC_02.03 Test open Login page");
+        })
+
+        it('TC_02.04 Test open Basket page', () => {
+            cy.log("TC_02.04 Test open Basket page");
+        })  
+    })
+
+    describe('TS02 Navigation menu from Basket page', () => {
+        beforeEach(() => {
+                cy.visit("https://sweetshop.netlify.app/sweets");
+            })
+
+        it('TC_02.01 Test open Sweets page', () => {
+            cy.log("TC_02.01 Test open Sweets page");
+        })
+
+        it('TC_02.02 Test open About page', () => {
+            cy.log("TC_02.02 Test open About page");
+        })
+
+        it('TC_02.03 Test open Login page', () => {
+            cy.log("TC_02.03 Test open Login page");
+        })
+
+        it('TC_02.04 Test open Basket page', () => {
+            cy.log("TC_02.04 Test open Basket page");
+        })  
+    })
+})
