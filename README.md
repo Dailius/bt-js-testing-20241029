@@ -197,6 +197,13 @@
 ## [Day 36]()
 1. Sweetshop project continuation Sprint with Jira
 
+## [Day 37]()
+1. Sweetshop project continuation Sprint with Jira
+
+## [Day 37](/notes/notes_day_38.md)
+1. Sweetshop project continuation Sprint with Jira
+2. xpath selector
+
 
 
 
