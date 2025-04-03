@@ -9,6 +9,7 @@ describe('Demo template spec', () => {
 
         // Check if username field is visible
         cy.get('input[data-test="username"]').should('be.visible');
+       
 
         // Check if password field is visible
         cy.get('[data-test="password"]').should('be.visible');
@@ -34,7 +35,8 @@ describe('Demo template spec', () => {
         cy.url().should('eq', 'https://www.saucedemo.com/');
 
         // type username
-        cy.get('input[data-test="username"]').type('standard_user');
+        // cy.get('input[data-test="username"]').type('standard_user');
+        cy.xpath('//input[@data-test="username"]').type('standard_user');
 
         // type password
         cy.get('input[data-test="password"]').type('secret_sauce');
