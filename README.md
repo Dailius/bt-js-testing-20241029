@@ -200,9 +200,14 @@
 ## [Day 37]()
 1. Sweetshop project continuation Sprint with Jira
 
-## [Day 37](/notes/notes_day_38.md)
+## [Day 38](/notes/notes_day_38.md)
 1. Docker installation
 2. xpath selector
+3. Sweetshop project continuation Sprint with Jira
+
+## [Day 39]()
+1. Final project
+2. Docker installation Q&A
 3. Sweetshop project continuation Sprint with Jira
 
 
