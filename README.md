@@ -211,6 +211,8 @@
 3. Sweetshop project continuation Sprint with Jira
 
 
-
+## [Day 40](/notes/notes_day_40.md)
+1. Sweetshop project continuation Sprint with Jira
+2. Docker
 
 
