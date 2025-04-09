@@ -210,9 +210,17 @@
 2. Docker installation Q&A
 3. Sweetshop project continuation Sprint with Jira
 
-
 ## [Day 40](/notes/notes_day_40.md)
 1. Sweetshop project continuation Sprint with Jira
 2. Docker
 
+## [Day 41](/notes/notes_day_41.md)
+1. Repeat
+2. Docker exercise
+3. Manage multiple containers
+
+<!-- ## [Day 42](/notes/notes_day_42.md)
+1. Repeat
+3. Navigate inside container
+4. Dockerfile and docker compose -->
 

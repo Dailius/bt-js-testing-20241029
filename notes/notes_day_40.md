@@ -23,7 +23,6 @@ CREATE container:
     docker run -d -p 8050:80 nginx
     docker run -d -p 8051:80 -p 8052:80 nginx
     docker run --name my_cnt_nginx -d -p 8053:80 nginx
-
 ```
 
 STOP and START container:
