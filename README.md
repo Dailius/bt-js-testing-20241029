@@ -219,8 +219,8 @@
 2. Docker exercise
 3. Manage multiple containers
 
-<!-- ## [Day 42](/notes/notes_day_42.md)
+## [Day 42](/notes/notes_day_42.md)
 1. Repeat
 3. Navigate inside container
-4. Dockerfile and docker compose -->
+4. Dockerfile and docker compose
 

@@ -1,0 +1,3 @@
+Take any express api of previous projects (ex: todo, user-auth, user-management)
+Run this app in docker container. 
+You might use dockerfile, docker-compose.yml at your reference
