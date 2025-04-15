@@ -224,3 +224,10 @@
 3. Navigate inside container
 4. Dockerfile and docker compose
 
+## [Day 43](/notes/notes_day_43.md)
+1. Presentation final project
+
+## [Day 44](/notes/notes_day_44.md)
+1. Docker
+2. Node express user authentication
+
