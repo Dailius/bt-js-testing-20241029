@@ -36,5 +36,6 @@ API testing:
 2025-04-22
 1. Kipras janonis
 2. Stanislovas Šniukšta
+3. Žilvinas Martičius
 
 2025-04-23
