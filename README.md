@@ -232,8 +232,7 @@
 2. Postman
 
 ## [Day 45]()
-1. Docker
-2. Postman
+1. Postman
 
 
 <!-- 3. Node express user authentication -->
